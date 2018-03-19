@@ -15,7 +15,7 @@ object Item {
   )
 
   /**
-    * Get isteances of items based on the supplied strings.
+    * Get instances of items based on the supplied strings.
     *
     * @param names of items to be included, duplicates allowed.
     * @return list of item objects representing input list.
